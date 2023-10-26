@@ -1,3 +1,7 @@
 {
-    "cSpell.language": "pt-BR,lorem,en-US,en-GB,en,pt"
+    "cSpell.language": "pt-BR,lorem,en-US,en,pt",
+    "cSpell.words": [
+        "Km"
+    ],
+    "miramac.node.showInfo": false
 }
